@@ -3,6 +3,7 @@ alfred-workflow
 
 function:
 1. replace rx to rpx 
+ 
 2. comment height or width line
 # why 
 
@@ -11,9 +12,12 @@ function:
 - option1: 
  select a text that contained px -> ⌥ + c -> ⌘ + v -> output text that rpx transfered from px.
 
+   <img src=./way1.gif width=40% />
+
 - option2: 
  select a text that contained px -> ⌘ + c -> ⌥ + v -> output text that rpx transfered from px.
- 
+
+   <img src=./way2.gif width=40% />
  
 
-![](./rx2rpx.gif)
+

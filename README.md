@@ -1,3 +1,4 @@
+[English](./README.md)
 # Alfred 插件 
 
 ## 功能：
